@@ -42,3 +42,34 @@ Moviepy - Writing video ./merge/Hello_Im_Under_The_Water....mp4
 
 t:  64%|███████████████████████████████████████████████████▍                           | 399/915 [00:21<00:21, 23.59it/s, now=None]
 ```
+
+```console
+>>> python .\get_all_video_links_of_channel.py
+send youtube/piped channel url: https://piped.video/playlist?list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC
+launching the browser ...
+scrolling the page ...
+scrolling the page ...
+getting the html file ...
+video links saved!
+
+>>> python test.py
++ Running the script ...
++ get download links ---> 1723034294-720p
++ file download as ---> 1723034294-720p.m4a
++ file download as ---> 1723034294-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=tXwXYvd0a68&list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC&index=1
+
++ get download links ---> 1723034308-720p
++ file download as ---> 1723034308-720p.m4a
++ file download as ---> 1723034308-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=6n__uFXz_vo&list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC&index=2
+
++ get download links ---> 1723034324-720p
++ file download as ---> 1723034324-720p.m4a
++ file download as ---> 1723034324-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=PfD0uRcMRdg&list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC&index=3
+
++ get download links ---> 1723034337-720p
++ file download as ---> 1723034337-720p.m4a
++ file download as ---> 1723034337-720p.mp4
+```
