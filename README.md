@@ -42,7 +42,7 @@ Moviepy - Writing video ./merge/Hello_Im_Under_The_Water....mp4
 
 t:  64%|███████████████████████████████████████████████████▍                           | 399/915 [00:21<00:21, 23.59it/s, now=None]
 ```
-
+سرعت `moviepy` خیلی کم بود برای همین از `ffmpeg` استفاده کردم و سرعتش عالیه!
 ```console
 >>> python .\get_all_video_links_of_channel.py
 send youtube/piped channel url: https://piped.video/playlist?list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC
