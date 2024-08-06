@@ -24,4 +24,19 @@
 برای اجرا نیازه که توی سایت [one-api.ir](https://one-api.ir) ثبت نام کنی و هر چقدر که نیازته شارژ کنی (5 هزار تومن هم کفایت میکنه و زیاد هم هست :))
 
 ### توجه
-نصف کد موضوع دیگه ای داره و نصف دیگه اش فقط همین کاری که گفتم رو میکنه. که خب با get_all_video_links_of_channel.py` میشه راحت اونارو هم انجام داد و از api استفاده نکرد و هزینه رو کمتر کرد.
+نصف کد موضوع دیگه ای داره و نصف دیگه اش فقط همین کاری که گفتم رو میکنه. که خب با `get_all_video_links_of_channel.py` میشه راحت اونارو هم انجام داد و از api استفاده نکرد و هزینه رو کمتر کرد.
+
+### خروجی لحظه ای کد
+```console
+getting download ids ---> Hello_Im_Under_The_Water...
+getting sound and video download links ---> Hello_Im_Under_The_Water...
+File downloaded as Hello_Im_Under_The_Water....m4a
+File downloaded as Hello_Im_Under_The_Water....mp4
+merging the video and sound ---> Hello_Im_Under_The_Water...
+Moviepy - Building video ./merge/Hello_Im_Under_The_Water....mp4.
+MoviePy - Writing audio in Hello_Im_Under_The_Water...TEMP_MPY_wvf_snd.mp4
+MoviePy - Done.
+Moviepy - Writing video ./merge/Hello_Im_Under_The_Water....mp4
+
+t:  64%|███████████████████████████████████████████████████▍                           | 399/915 [00:21<00:21, 23.59it/s, now=None]
+```
