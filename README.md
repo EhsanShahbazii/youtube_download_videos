@@ -54,22 +54,32 @@ video links saved!
 
 >>> python test.py
 + Running the script ...
-+ get download links ---> 1723034294-720p
-+ file download as ---> 1723034294-720p.m4a
-+ file download as ---> 1723034294-720p.mp4
-+ reading the link ---> https://youtube.com/watch?v=tXwXYvd0a68&list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC&index=1
++ get download links ---> 1723035094-720p
++ file download as ---> 1723035094-720p.m4a
++ file download as ---> 1723035094-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=DbNjt_und3k&list=PLr5CENbugJAj9Zz98ueXl8WpjJJG-xF83&index=1
 
-+ get download links ---> 1723034308-720p
-+ file download as ---> 1723034308-720p.m4a
-+ file download as ---> 1723034308-720p.mp4
-+ reading the link ---> https://youtube.com/watch?v=6n__uFXz_vo&list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC&index=2
+progress status: %2.0
++ get download links ---> 1723035109-720p
++ file download as ---> 1723035109-720p.m4a
++ file download as ---> 1723035109-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=135YMp7ttJU&list=PLr5CENbugJAj9Zz98ueXl8WpjJJG-xF83&index=2
 
-+ get download links ---> 1723034324-720p
-+ file download as ---> 1723034324-720p.m4a
-+ file download as ---> 1723034324-720p.mp4
-+ reading the link ---> https://youtube.com/watch?v=PfD0uRcMRdg&list=PLr5CENbugJAjvrKwcOKpLUEO0Zcv6OBkC&index=3
+progress status: %4.0
++ get download links ---> 1723035123-720p
++ file download as ---> 1723035123-720p.m4a
++ file download as ---> 1723035123-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=Mxjt9L-vXOI&list=PLr5CENbugJAj9Zz98ueXl8WpjJJG-xF83&index=3
 
-+ get download links ---> 1723034337-720p
-+ file download as ---> 1723034337-720p.m4a
-+ file download as ---> 1723034337-720p.mp4
+progress status: %6.0
++ get download links ---> 1723035136-720p
++ file download as ---> 1723035136-720p.m4a
++ file download as ---> 1723035136-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=0N44hNT32OA&list=PLr5CENbugJAj9Zz98ueXl8WpjJJG-xF83&index=4
+
+progress status: %9.0
++ get download links ---> 1723035149-720p
++ file download as ---> 1723035149-720p.m4a
++ file download as ---> 1723035149-720p.mp4
++ reading the link ---> https://youtube.com/watch?v=OX7292COAg4&list=PLr5CENbugJAj9Zz98ueXl8WpjJJG-xF83&index=5
 ```
