@@ -83,3 +83,6 @@ progress status: %9.0
 + file download as ---> 1723035149-720p.mp4
 + reading the link ---> https://youtube.com/watch?v=OX7292COAg4&list=PLr5CENbugJAj9Zz98ueXl8WpjJJG-xF83&index=5
 ```
+
+### ادغام صدا و ویدیو
+![](assets/x1.png)
